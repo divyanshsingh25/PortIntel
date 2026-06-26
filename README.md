@@ -1,7 +1,7 @@
 # 🔍 PortIntel
 
 Autonomous Port Scanner & Network Reconnaissance Tool built in Python.
-This is a final project of internship at VOIS.
+This is a final project of my internship at VOIS.
 
 A modular, multi-threaded scanner with service detection, banner grabbing, OS fingerprinting, and a real-time Flask dashboard.
 
